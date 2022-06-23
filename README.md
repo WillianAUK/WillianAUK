@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**WillianAUK/WillianAUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-## Olá, sou Willian AUK ...
+### Olá, sou Willian AUK ...
 
 - 🎓Formado em Engenharia de Computação.
 
